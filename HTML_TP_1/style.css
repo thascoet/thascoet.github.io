@@ -25,11 +25,15 @@ html, body {
       text-align: center;
   }
 
-  .image {
+  .image1 {
       width: 950px;
       height: 100px;
-      align-self: center;
   }
+
+  .image2 {
+    width: 100px;
+    height: 450px;
+}
 
   h2, h3 {
     font-family: 'Sonsie One', cursive;
